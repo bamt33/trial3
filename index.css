@@ -104,4 +104,39 @@
   gap: 7px;
 }
 
+#signUp {
+  width: 120px;
+  height: 50px;
+  border-radius: 34px;
+  background-color: black;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+#actions {
+  display: inline-flex;
+  gap: -10px;
+  align-items: center;
+}
+
+#navActions {
+  display: inline-flex;
+  width: 915px;
+  height: 55px;
+  gap: 90px;
+  align-items: center;
+}
+
+#header {
+  display: flex;
+  width: auto;
+  height: auto;
+  gap: 200px;
+}
+
+#nM {
+  width: auto;
+}
+
 /*# sourceMappingURL=index.css.map */
