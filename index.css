@@ -84,4 +84,24 @@
   justify-content: center;
 }
 
+.navItem {
+  display: inline-flex;
+  width: 100px;
+  height: auto;
+  padding: 10px;
+  font-family: sans-serif;
+  font-size: 22px;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+}
+
+.navItem:hover {
+  opacity: 50%;
+}
+
+#nav {
+  display: inline-flex;
+  gap: 7px;
+}
+
 /*# sourceMappingURL=index.css.map */
